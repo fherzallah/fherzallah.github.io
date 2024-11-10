@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae (CV)"
 CV: 'http://fherzallah.github.io/files/CV-2024.pdf'
 
 permalink: /cv/
