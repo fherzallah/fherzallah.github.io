@@ -32,6 +32,8 @@ Work experience
   * February 2021-Present, Executive Editor, of Palestine Technical University Research Journal (PTURJ), Palestine Technical University - Kadoorie.
   * September 2021-Present, Member, Research Funding Committee, Deanship of Scientific Research, Palestine Technical University - Kadoorie.
   * February 2022-2024, Deans Assiatant, Deanship of Scientific Research, Palestine Technical University - Kadoorie.
+  * September 2024-Present, Deans, Deanship of Integrated Education, Palestine Technical University - Kadoorie.
+
 
 
 * Fall 2015: Research Assistant
