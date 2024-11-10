@@ -32,7 +32,8 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=WlGlvHoAAAAJ&hl=ar&oi=ao"
+  googlescholar    : <a href="https://scholar.google.com/citations?user=WlGlvHoAAAAJ&hl=ar&oi=ao" target='_blank'>
+  
   Researchgate      : https://www.researchgate.net/profile/Fadi-Herzallah
   orcid            : "https://orcid.org/0000-0001-8589-7950"
   scopus           :  "https://www.scopus.com/authid/detail.uri?authorId=56644756100"
