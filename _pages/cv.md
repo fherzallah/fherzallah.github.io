@@ -19,7 +19,7 @@ Education
 * 2002, Secondary High School – Scientific Section, Al-Fadelia  Secondary School, Tulkarm-Palestine, 84.1 (very good).
 
 Work experience
-======
+===============
   * July 2008 - 2013, Al-Quds Open University , Tulkarm – Palestine, Instructor  "Part Time", www.qou.edu.
   * September 2009 - Present, Associate Professor at Departement of Business Administration and E-commerce, Palestine Technical University –Kadoorie, Tulkarm, www.ptuk.edu.ps
   * September 2017- September 2018, Head of Accounting Information System Departement, Faculty of Business and Economics  - Palestine Technical University –Kadoorie. 
@@ -35,7 +35,7 @@ Work experience
   * September 2024-Present, Deans, Deanship of Integrated Education, Palestine Technical University - Kadoorie.
  
 Skills
-======
+===============
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -44,23 +44,23 @@ Skills
 * Skill 3
 
 Publications
-======
+===============
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+===============
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
-======
+===============
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-======
+===============
 * Currently signed in to 43 different slack teams
