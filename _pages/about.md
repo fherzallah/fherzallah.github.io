@@ -24,31 +24,52 @@ EDUCATION:
 ACADEMIC & ADMINISTRATIVE EXPERIENCE
 ------------
 •	July 2008 - 2013, Al-Quds Open University , Tulkarm – Palestine, Instructor  "Part Time", www.qou.edu .
+
 •	September 2009 - Present, Associate Professor at Departement of Business Administration and E-commerce, Palestine Technical University –Kadoorie, Tulkarm, www.ptuk.edu.ps
+
 •	September 2017- September 2018, Head of Accounting Information System Departement, Faculty of Business and Economics  - Palestine Technical University –Kadoorie. 
+
 •	July 2018- February 2018, Assistant Manager of Admission and Registration Department, Palestine Technical University –Kadoorie.
+
 •	September 2019- February 2021, Head of Business Administration and E-commerce Departement, Faculty of Business and Economics  - Palestine Technical University –Kadoorie.
+
 •	September 2020- September 2021, Member, Academic Graduate Studies Council, College of Graduate Studies, Palestine Technical University - Kadoorie.
-•	September 2020- November 2020, Head, Development Committee, Master of E-Commerce Program, Palestine Technical University - Kadoorie 
+
+•	September 2020- November 2020, Head, Development Committee, Master of E-Commerce Program, Palestine Technical University - Kadoorie. 
+
 •	September 2020-Present, Member, Advisory Board of Palestine Technical University Research Journal (PTURJ), Palestine Technical University - Kadoorie.
-•	September 2021- November, 2021, Head, Development Committee, B.Sc. degree of E-Marketing Program, Palestine Technical University - Kadoorie 
+
+•	September 2021- November, 2021, Head, Development Committee, B.Sc. degree of E-Marketing Program, Palestine Technical University - Kadoorie.
+
 •	February 2021-Present, Executive Editor, of Palestine Technical University Research Journal (PTURJ), Palestine Technical University - Kadoorie.
+
 •	September 2021-Present, Member, Research Funding Committee, Deanship of Scientific Research, Palestine Technical University - Kadoorie.
+
 •	February 2022-Present, Deans Assiatant, Deanship of Scientific Research, Palestine Technical University - Kadoorie.
 
 
 TRAINING AND WORKSHOPS: 
 ------------
 •	Structural equation modelling Smart PLS at The National University of Malaysia, 2015.
+
 •	Workshop on SEM-PLS at Mega mind training center –Malaysia, 2015.
+
 •	Workshop on writing paper and article using SEM AMOS style and format at IIUM-Malaysia, 2015.
+
 •	Time control skill workshop at UMP – Malaysia, 2015.
+
 •	SPSS and structural equation modelling using AMOS at panoply consultancy center-UM- Malaysia, 2016.
+
 •	Structural equation modelling introduction and advance level at Panoply Consultancy center-UM- Malaysia, 2015.
+
 •	SPSS and structural equation modelling using AMOS at The National University of Malaysia, 2016.
+
 •	Academic Writing at the National University of Malaysia, 2016.
+
 •	Workshop on mediation analysis and reporting using AMOS at Faculty of Business - the national university of Malaysia, 2016.
+
 •	Workshop on research methodology skills at Al-Najah Univesty-Palestine, 2019.
+
 •	Workshop on strategic planning at natunional school of administration-Palestine, 2019.
 
 
