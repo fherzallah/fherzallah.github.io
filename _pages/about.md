@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+BIO
+--------------
 Fadi Herzallah is currently working as an Associate Professor in the Department of Markiting and E-Commerce at Palestine Technical University, Kadoorei, Palestine, and he is the Dean of the Faculty of Integrated Education. He received his PhD in Information Science—E-Commerce from The National University of Malaysia—Malaysia, his M.Sc. Degree in Computer Information System from The Arab Academy for Banking and Financial Sciences—Jordan, and his B.Sc. Degree in Computer Science from Palestine Polytechnic University—Palestine. His research interests are in the areas of e-commerce applications, technology adoption, online social networks, green IT, e-marketing, EHRM, and others.
 
 
@@ -112,8 +114,15 @@ COURSES TAUGHT:
 COMPUTING SKILLS:
 ------------
 •	Programming: Experienced in C, C++, Java, VB.NET.
+
 •	Database Management: Experienced in MS-Access, Oracle.
+
 •	Web Development: Experienced in HTML, ASP.NET.
+
 •	CASE Tools: Rational RoseTM , MS Project2003, Visio.
+
 •	OO Analysis and Design: Experienced in UML.
-•	Others: Experienced in MS-Office (word, excel, PowerPoint), Good background in PC maintenance and troubleshooting.
+
+•	Others: Experienced in MS-Office (word, excel, PowerPoint).
+
+• Good background in PC maintenance and troubleshooting.
