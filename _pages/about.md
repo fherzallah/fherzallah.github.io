@@ -12,15 +12,10 @@ Fadi Herzallah is currently working as an Associate Professor in the Department 
 PERSONAL INFORMATION
 ======
 Name: 	Fadi Ahmed Tawfeeq Herzallah
-
 Residency:	Palestine
-
 Marital Status:	Married
-
 Birth Date:	03/June/1984
-
 Address:	Palestine – West Bank – Tulkarm
-
 Mobile:	+972592060607
 
 
