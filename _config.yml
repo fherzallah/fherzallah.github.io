@@ -35,10 +35,11 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=WlGlvHoAAAAJ&hl=ar&oi=ao"
   Researchgate      : https://www.researchgate.net/profile/Fadi-Herzallah
   orcid            : "https://orcid.org/0000-0001-8589-7950"
-  semantic         : # URL
+  scopus ID      :  "56644756100"
   Web of Science ResearcherID : "AAW-7456-2021"
   # researchgate     : # URL
-  # scopus           : ID 56644756100
+    # semantic         : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
