@@ -1,6 +1,9 @@
 ---
 permalink: /
 title: "ABOUT DR. FADI HERZALLAH"
+You can download the CV file:
+CV: 'http://fherzallah.github.io/files/CV-2024.pdf'
+
 author_profile: true
 redirect_from: 
   - /about/
