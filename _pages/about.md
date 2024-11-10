@@ -8,15 +8,19 @@ redirect_from:
 ---
 Fadi Herzallah is currently working as an Associate Professor in the Department of Markiting and E-Commerce at Palestine Technical University, Kadoorei, Palestine, and he is the Dean of the Faculty of Integrated Education. He received his PhD in Information Science—E-Commerce from The National University of Malaysia—Malaysia, his M.Sc. Degree in Computer Information System from The Arab Academy for Banking and Financial Sciences—Jordan, and his B.Sc. Degree in Computer Science from Palestine Polytechnic University—Palestine. His research interests are in the areas of e-commerce applications, technology adoption, online social networks, green IT, e-marketing, EHRM, and others.
 
-<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
 PERSONAL INFORMATION
 ======
 Name: 	Fadi Ahmed Tawfeeq Herzallah
+
 Residency:	Palestine
+
 Marital Status:	Married
+
 Birth Date:	03/June/1984
+
 Address:	Palestine – West Bank – Tulkarm
+
 Mobile:	+972592060607
 
 
