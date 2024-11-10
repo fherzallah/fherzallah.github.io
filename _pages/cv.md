@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-paperurl: 'http://fherzallah.github.io/files/Herzallah_Fadi_CV - 2024.pdf'
+CV: 'http://fherzallah.github.io/files/CV-2024.pdf'
 
 permalink: /cv/
 author_profile: true
