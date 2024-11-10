@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "CV"
+paperurl: 'http://fherzallah.github.io/files/Herzallah_Fadi_CV - 2024.pdf'
+
 permalink: /cv/
 author_profile: true
 redirect_from:
