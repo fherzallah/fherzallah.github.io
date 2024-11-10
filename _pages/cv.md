@@ -33,19 +33,7 @@ Work experience
   * September 2021-Present, Member, Research Funding Committee, Deanship of Scientific Research, Palestine Technical University - Kadoorie.
   * February 2022-2024, Deans Assiatant, Deanship of Scientific Research, Palestine Technical University - Kadoorie.
   * September 2024-Present, Deans, Deanship of Integrated Education, Palestine Technical University - Kadoorie.
-
-
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+ 
 Skills
 ======
 * Skill 1
