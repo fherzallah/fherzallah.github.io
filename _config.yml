@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Fadi Herzallah"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # pronouns         : # example: "He"  
+  bio              : "د. فادي أحمد حرزالله"
   location         : "Palestine"
   employer         : "Palestine Technical University - Kadoorie"
   uri              : # www.ptuk.edu.ps
