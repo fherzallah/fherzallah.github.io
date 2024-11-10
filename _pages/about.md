@@ -10,7 +10,7 @@ Fadi Herzallah is currently working as an Associate Professor in the Department 
 
 
 EDUCATION:	
-======
+------------
 •	2013-2017, PhD. Degree in Information Science (Electronic Commerce), The National University of Malaysia, www.ukm.edu.my
 
 •	2006-2008, M.Sc. Degree in Computer Information System, The Arab Academy for Banking and Financial Sciences, GPA: 87.9 (very good), www.aabfs.org
@@ -22,7 +22,7 @@ EDUCATION:
 
 
 ACADEMIC & ADMINISTRATIVE EXPERIENCE
-======
+------------
 •	July 2008 - 2013, Al-Quds Open University , Tulkarm – Palestine, Instructor  "Part Time", www.qou.edu .
 •	September 2009 - Present, Associate Professor at Departement of Business Administration and E-commerce, Palestine Technical University –Kadoorie, Tulkarm, www.ptuk.edu.ps
 •	September 2017- September 2018, Head of Accounting Information System Departement, Faculty of Business and Economics  - Palestine Technical University –Kadoorie. 
@@ -38,7 +38,7 @@ ACADEMIC & ADMINISTRATIVE EXPERIENCE
 
 
 TRAINING AND WORKSHOPS: 
-======
+------------
 •	Structural equation modelling Smart PLS at The National University of Malaysia, 2015.
 •	Workshop on SEM-PLS at Mega mind training center –Malaysia, 2015.
 •	Workshop on writing paper and article using SEM AMOS style and format at IIUM-Malaysia, 2015.
@@ -53,11 +53,11 @@ TRAINING AND WORKSHOPS:
 
 
 RESEARCH INTEREST:
-------
+------------
 Electronic commerce adoption, E-HRM, E-marketing, Information ecology, Organizational culture, Information culture, Organizatioanl performance, Online banking, E-government, E-Tourism, E-commerce localization, Online social nwoweks, and Cloud computing, Digital Governance, Total Quality Management. 
 
 MASTER STUDENTS SUPERVISION:
-=============
+------------
 1.	Mohammad Jawdat Rajab, Public Administration Program, Thesis Title :The Effect Of Total Quality Management On The school Government School performance In Tulkarm: The Mediation Role of Job Satisfaction, 2023.
 2.	Amer Khader, Public Administration Program, Thesis Title: The Role of A management Control Dimensions In Achieving The Organizational Effectiveness: The Modified Role Of The Application Of Electronic Management (A field Study in The Directorates of Education in The Northern West Bank), 2023.
 3.	Aya Tayseer Abd Al Jabar Abu Shreteh, Ecommerce Program, Thesis Title: Investigating the Factors Affecting Young Generation’s Loyalty towards Mobile Banking Apps-Based Artificial Intelligence, 2023.
@@ -71,7 +71,7 @@ Service (SaaS): Addressing the Dark Side of Technology Adoption, 2023.
 10.	Rana Hmaed
 
 MASTER EXAMINATION
-===========
+------------
 •	External examiner
 1.	Ahmad Mohammad Khader Bsharat, Thesis Title: Re-Engineering the Administrative Processes of Managing Human Resources in the Ministries of the Palestinian National Authority and its Impact on Job performance of Employees. Case Study (Palestinian Ministry of Awqaf), Al-Quds Open University, 2023.
 2.	Mais Ahmad Hantash, Thesis Title: The role of information systems in improving the quality of training in vocational training centers of the Palestinian ministry of labor in the west bank,  Al-Quds Open University, 2023.
@@ -85,11 +85,11 @@ MASTER EXAMINATION
 
 
 COURSES TAUGHT:
-===========
+------------
 •	Research Methods (Master Program), Ecommerce (Master Program), Introduction to E-commerce, Information system analysis and design, E-management, Software Engineering, Management Information Systems, Introduction to Computing, Data processing and introduction to programming in C, Database Systems , Management Information System Auditing and Evaluation, Accounting Information system, Computer applications in the administration, Computer applications in the finance, Computer applications in the accounting, Computer applications in the marketing, Software in Industrial Management, Computer in the education, Software Application (HTML, Photoshop and Flash), Introduction to C++.
 
 COMPUTING SKILLS:
-============
+------------
 •	Programming: Experienced in C, C++, Java, VB.NET.
 •	Database Management: Experienced in MS-Access, Oracle.
 •	Web Development: Experienced in HTML, ASP.NET.
